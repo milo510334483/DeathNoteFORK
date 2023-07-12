@@ -2,7 +2,7 @@
 #例139****1234,passwd1;150****5678,passwd2
 #fork自https://github.com/xl3366/NN/blob/main/NN.py
 #仅供学习
-cron: 2 7 * * *
+cron: 0 8 * * *
 const $ = new Env("NN");
 """
 import hashlib
